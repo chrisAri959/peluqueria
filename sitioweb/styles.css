@@ -1,0 +1,49 @@
+/*  Inicio  */
+
+.index-1 {
+    color: #f0f0f0;
+    text-shadow: 1px 1px 2px black, 0 0 25px #43e731, 0 0 5px #103606af,  0 0 25px #43e731, 0 0 5px #46d91daf;
+}
+
+/*  Nosotros  */
+.nosotros {
+     color: #65dd47;
+     text-shadow: 1px 1px 2px black, 0 0 25px #43e731, 0 0 5px #103606af,  0 0 25px #43e731, 0 0 5px #46d91daf;
+}
+
+.nosotros-1 {
+    color: #6dfefe;
+}
+.nosotros-2 {
+    color: #530559;
+}
+
+/*  Login  */
+
+/*  Administrador   */
+
+/*  Footer  */
+.embed-responsive {
+    position: relative;
+    display: block;
+    height: 0;
+    padding-bottom: 56.25%; /* Proporción de aspecto 16:9 */
+    overflow: hidden;
+  }
+  
+  .embed-responsive-item {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .embed-responsive {
+    padding-bottom: 75%;
+  }
+
+.footer {
+    color: #03a9a9b3;
+    
+}
